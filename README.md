@@ -34,16 +34,19 @@
 
 ## 🛠️ Tech Stack
 
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
+### Web
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
