@@ -25,25 +25,11 @@
 
 ## 🌟 About Me
 
-- 🎓 Student and developer
-- 💻 Interested in software development and web technologies
-- 🔍 Currently building **DevLens**
-- 🚀 Learning React, Node.js and GitHub APIs
-- 🌱 Always learning something new
+- Student and developer
+- Interested in software development and cybersecurity
+- Learning React, Node.js and GitHub APIs
 
 ---
-
-## 🔍 DevLens
-
-I'm currently developing **DevLens**, a GitHub analytics dashboard that analyzes repository health and activity.
-
-### Features
-
-- 🔐 GitHub OAuth authentication
-- 📊 Repository analytics
-- ❤️ Repository Health Score
-- ✅ Repository quality checks
-- 🌐 GitHub REST API integration
 
 [View DevLens on GitHub](https://github.com/ClayGGWP/devlens)
 
