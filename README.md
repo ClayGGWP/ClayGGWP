@@ -4,10 +4,6 @@
 
 ### Developer • Student • Building DevLens
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hello%2C+I'm+Shimei;Developer+%E2%80%A2+Student;Building+DevLens)](https://git.io/typing-svg)
-
 <br>
 
 [![Followers](https://img.shields.io/github/followers/ClayGGWP?style=for-the-badge&logo=github&color=58A6FF)](https://github.com/ClayGGWP?tab=followers)
