@@ -31,9 +31,6 @@
 
 ---
 
-[View DevLens on GitHub](https://github.com/ClayGGWP/devlens)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -41,15 +38,20 @@
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-
----
 
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-ClayGGWP-181717?style=for-the-badge&logo=github)](https://github.com/ClayGGWP)
 
+--
 
 <!--
 **ClayGGWP/ClayGGWP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
